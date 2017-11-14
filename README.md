@@ -12,9 +12,13 @@ import {validarRuc} from '../ruta/hacia/el/archivo/validar-ruc';
 const ruc = '1718137159001';
 
 if ( validarRuc(ruc) ) {
+
   console.log('RUC válido');
+  
 } else {
+
   console.log('RUC inválido');
+  
 }
 ```
 
