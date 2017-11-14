@@ -1,4 +1,4 @@
-# Validar RUC en Ecuador Typescript
+# Algoritmo para validar RUC en Ecuador Typescript
 Repositorio para validar el RUC en Ecuador
 ## ¿Cómo usarlo?
 Para utilizarlo debemos de importar los dos archivos, el `validar-cedulta.ts` y el archivo `validar-ruc.ts`. El archivo `validar-ruc.ts` depende de la validación de cédula. Es por eso que se necesita importar los dos.
